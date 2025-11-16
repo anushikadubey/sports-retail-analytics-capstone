@@ -33,7 +33,7 @@ The analysis combines statistical, visual, and business intelligence techniques 
 | Reporting               | PDF, Excel, Power BI Dashboard                           |
 | Notebook Environment    | Jupyter Notebook                                         |
 
-. Key Insights (High-Level)
+ Key Insights 
 
 * One category contributes majority of revenue (showing dependency risk).
 
